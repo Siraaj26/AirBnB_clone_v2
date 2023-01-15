@@ -1,0 +1,1 @@
+The folder contain images for airbnb clone website
